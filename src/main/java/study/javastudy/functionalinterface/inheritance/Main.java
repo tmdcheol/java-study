@@ -1,7 +1,5 @@
 package study.javastudy.functionalinterface.inheritance;
 
-import functionalinterface.inheritance.Converter;
-
 public class Main {
 
     public static void main(String[] args) {
